@@ -1,0 +1,5 @@
+D:\Git\SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\bin\Debug\JCore.SitecoreRenderingInheritance.dll
+D:\Git\SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\bin\Debug\JCore.SitecoreRenderingInheritance.pdb
+D:\Git\SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\obj\Debug\JCore.SitecoreRenderingInheritance.dll
+D:\Git\SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\JCore.SitecoreRenderingInheritance\obj\Debug\JCore.SitecoreRenderingInheritance.pdb
