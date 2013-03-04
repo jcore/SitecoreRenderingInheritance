@@ -5,7 +5,7 @@ using System.Text;
 
 namespace JCore.SitecoreRenderingInheritance
 {
-    public class Class1
+    public class RenderingInheritance
     {
     }
 }
